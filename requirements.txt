@@ -1,0 +1,10 @@
+streamlit
+geopandas
+matplotlib
+folium
+streamlit-folium
+pandas
+openpyxl
+requests
+matplotlib-scalebar
+adjustText
